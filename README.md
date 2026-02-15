@@ -21,7 +21,7 @@ An interactive quiz application built with Streamlit that tests your knowledge a
 
 ## 🚀 Live Demo
 
-[Try it here!](#) *(Coming soon - Streamlit deployment)*
+[Try it here!](#) *(https://quiz-game-8v7mzgeykvltmsscxsjaht.streamlit.app/)*
 
 ## 🛠️ Installation
 
