@@ -1,0 +1,250 @@
+{
+  "capitals": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "answer": "Brasília"
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+      "answer": "Cairo"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "options": ["Milan", "Rome", "Venice", "Florence"],
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "options": ["Busan", "Seoul", "Incheon", "Daegu"],
+      "answer": "Seoul"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+      "answer": "Ankara"
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+      "answer": "Buenos Aires"
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "options": ["Phuket", "Chiang Mai", "Bangkok", "Pattaya"],
+      "answer": "Bangkok"
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+      "answer": "Madrid"
+    }
+  ],
+  "presidents": [
+    {
+      "question": "Who was the first president of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "Who is the current president of France (as of 2024)?",
+      "options": ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
+      "answer": "Emmanuel Macron"
+    },
+    {
+      "question": "Who was the first female prime minister of the United Kingdom?",
+      "options": ["Theresa May", "Margaret Thatcher", "Angela Merkel", "Queen Elizabeth II"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "Which US president served four terms?",
+      "options": ["Theodore Roosevelt", "Franklin D. Roosevelt", "Harry Truman", "Dwight Eisenhower"],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "Who was the 16th president of the United States?",
+      "options": ["Abraham Lincoln", "Andrew Johnson", "Ulysses S. Grant", "James Buchanan"],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "question": "Who was the first president of Russia after the Soviet Union?",
+      "options": ["Vladimir Putin", "Boris Yeltsin", "Mikhail Gorbachev", "Dmitry Medvedev"],
+      "answer": "Boris Yeltsin"
+    },
+    {
+      "question": "Who was the first president of South Africa after apartheid?",
+      "options": ["Nelson Mandela", "Thabo Mbeki", "Jacob Zuma", "F.W. de Klerk"],
+      "answer": "Nelson Mandela"
+    },
+    {
+      "question": "Which US president resigned from office?",
+      "options": ["Richard Nixon", "Gerald Ford", "Lyndon Johnson", "Jimmy Carter"],
+      "answer": "Richard Nixon"
+    },
+    {
+      "question": "Who was known as the 'Iron Lady'?",
+      "options": ["Angela Merkel", "Margaret Thatcher", "Indira Gandhi", "Golda Meir"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "Who was the youngest elected US president?",
+      "options": ["Theodore Roosevelt", "John F. Kennedy", "Bill Clinton", "Barack Obama"],
+      "answer": "John F. Kennedy"
+    }
+  ],
+  "currencies": [
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Rupee"],
+      "answer": "Yen"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "What is the currency of Switzerland?",
+      "options": ["Euro", "Franc", "Krona", "Mark"],
+      "answer": "Franc"
+    },
+    {
+      "question": "What currency is used in India?",
+      "options": ["Rupee", "Yen", "Dirham", "Baht"],
+      "answer": "Rupee"
+    },
+    {
+      "question": "What is the currency of Mexico?",
+      "options": ["Peso", "Real", "Dollar", "Bolivar"],
+      "answer": "Peso"
+    },
+    {
+      "question": "What currency is used in China?",
+      "options": ["Yen", "Yuan", "Won", "Ringgit"],
+      "answer": "Yuan"
+    },
+    {
+      "question": "What is the currency of South Africa?",
+      "options": ["Rand", "Shilling", "Pound", "Dollar"],
+      "answer": "Rand"
+    },
+    {
+      "question": "What currency is used in Russia?",
+      "options": ["Ruble", "Zloty", "Krona", "Lira"],
+      "answer": "Ruble"
+    },
+    {
+      "question": "What is the currency of Brazil?",
+      "options": ["Peso", "Real", "Dollar", "Colon"],
+      "answer": "Real"
+    },
+    {
+      "question": "What currency is used in the European Union?",
+      "options": ["Euro", "Pound", "Franc", "Mark"],
+      "answer": "Euro"
+    },
+    {
+      "question": "What is the currency of Australia?",
+      "options": ["Dollar", "Pound", "Euro", "Rand"],
+      "answer": "Dollar"
+    },
+    {
+      "question": "What currency is used in Saudi Arabia?",
+      "options": ["Dirham", "Riyal", "Dinar", "Pound"],
+      "answer": "Riyal"
+    }
+  ],
+  "history": [
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945"
+    },
+    {
+      "question": "Who discovered America in 1492?",
+      "options": ["Amerigo Vespucci", "Christopher Columbus", "Ferdinand Magellan", "Marco Polo"],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question": "What year did the Berlin Wall fall?",
+      "options": ["1987", "1989", "1991", "1993"],
+      "answer": "1989"
+    },
+    {
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Greek Empire", "Roman Empire", "Ottoman Empire", "Persian Empire"],
+      "answer": "Roman Empire"
+    },
+    {
+      "question": "In what year did the Titanic sink?",
+      "options": ["1910", "1912", "1914", "1916"],
+      "answer": "1912"
+    },
+    {
+      "question": "When did World War I begin?",
+      "options": ["1912", "1914", "1916", "1918"],
+      "answer": "1914"
+    },
+    {
+      "question": "What year did the French Revolution begin?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "answer": "1789"
+    },
+    {
+      "question": "Who was the first man to walk on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "In what year did the United States declare independence?",
+      "options": ["1774", "1775", "1776", "1777"],
+      "answer": "1776"
+    },
+    {
+      "question": "Which war was fought between 1950-1953?",
+      "options": ["Vietnam War", "Korean War", "Gulf War", "Cold War"],
+      "answer": "Korean War"
+    },
+    {
+      "question": "Who was the first female pharaoh of Egypt?",
+      "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Ankhesenamun"],
+      "answer": "Hatshepsut"
+    },
+    {
+      "question": "What year did the Soviet Union collapse?",
+      "options": ["1989", "1990", "1991", "1992"],
+      "answer": "1991"
+    },
+    {
+      "question": "Who invented the printing press?",
+      "options": ["Leonardo da Vinci", "Johannes Gutenberg", "Benjamin Franklin", "Thomas Edison"],
+      "answer": "Johannes Gutenberg"
+    },
+    {
+      "question": "What ancient wonder was located in Alexandria?",
+      "options": ["Hanging Gardens", "Colossus", "Lighthouse", "Statue of Zeus"],
+      "answer": "Lighthouse"
+    }
+  ]
+}
