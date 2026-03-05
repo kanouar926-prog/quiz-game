@@ -95,17 +95,12 @@ Khchichine Mohamed Anouar - [GitHub Profile](https://github.com/kanouar926-prog)
 venv/
 env/
 
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
+
 
 # Streamlit cache
 .streamlit/
 
-# OS files
-.DS_Store
-Thumbs.db
+
 
 # IDE
 .vscode/
